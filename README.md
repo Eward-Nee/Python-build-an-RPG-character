@@ -1,1 +1,5 @@
-# Python-build-an-RPG-character \n\nThis is a project in the freeCodeCamp full stack Python course
+# Python-build-an-RPG-character 
+
+
+
+This is a project in the freeCodeCamp full stack Python course
